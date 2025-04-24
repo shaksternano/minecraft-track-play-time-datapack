@@ -1,0 +1,13 @@
+# Editor directories and files
+.vscode
+.idea
+.fleet
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Other
+*.zip

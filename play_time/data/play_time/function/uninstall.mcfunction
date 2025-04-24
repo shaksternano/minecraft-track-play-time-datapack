@@ -1,0 +1,12 @@
+schedule clear play_time:tick
+
+scoreboard objectives remove playTime_minutes
+scoreboard objectives remove playTime_minutesInternal
+
+scoreboard objectives remove playTime_hours
+scoreboard objectives remove playTime_hoursInternal
+
+scoreboard objectives remove playTime_days
+scoreboard objectives remove playTime_daysInternal
+
+scoreboard objectives remove playTime_constants
