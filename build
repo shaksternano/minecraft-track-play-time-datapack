@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd play_time
+zip -r "../track play time MC 1.21.zip" .
